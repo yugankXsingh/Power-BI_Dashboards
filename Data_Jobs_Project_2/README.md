@@ -4,7 +4,7 @@
   <img src="/Images/Project2_Dashboard_Overview.gif" alt="Data Jobs Dashboard 2.0 GIF">
 </a>
 
-> <a href="https://lukeb.co/powerbi-project2" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
+> <a href="https://app.powerbi.com/reportEmbed?reportId=613eedb0-4649-4575-b5c0-8f80e52dfcb5&autoAuth=true&ctid=d0732ed6-a89f-488d-b29d-e5e9e7cdde5c" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 
 ## Introduction
