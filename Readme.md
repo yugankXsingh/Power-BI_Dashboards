@@ -10,7 +10,8 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (Project 1 - Comprehensive Exploration)
 
-[![Data Jobs Dashboard GIF](Images\Project1_Dashboard_Overview.gif)](Data_Jobs_Project_1\Readme.md)
+[![Data Jobs Dashboard 1 GIF](Images/Project1_Dashboard_Overview.gif)](Data_Jobs_Project_1/README.md)
+
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/reportEmbed?reportId=629e5236-54c8-43d8-9eef-a1ca139d55b9&autoAuth=true)
 
@@ -29,13 +30,12 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 - 🔘 Buttons & Bookmarks for Page Navigation
 - ➡️ Drill-Through Functionality
 
-[➡️ **View Full Project 1 Details (README)**](Data_Jobs_Project_1\Readme.md)
-
+[➡️ **View Full Project 1 Details (README)**](Data_Jobs_Project_1/README.md)
 ---
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-[![Data Jobs Dashboard 2.0 GIF](Images\Project2_Dashboard_Overview.gif)](Data_Jobs_Project_2\README.md)
+[![Data Jobs Dashboard 2.0 GIF](Images/Project2_Dashboard_Overview.gif)](Data_Jobs_Project_2/README.md)
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/reportEmbed?reportId=613eedb0-4649-4575-b5c0-8f80e52dfcb5&autoAuth=true&ctid=d0732ed6-a89f-488d-b29d-e5e9e7cdde5c)
 
@@ -54,7 +54,7 @@ Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly fo
 - 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 - ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](Data_Jobs_Project_2\README.md)
+[➡️ **View Full Project 2 Details (README)**](Data_Jobs_Project_2/README.md)
 
 ---
 
