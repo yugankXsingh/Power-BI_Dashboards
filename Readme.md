@@ -14,6 +14,8 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/reportEmbed?reportId=629e5236-54c8-43d8-9eef-a1ca139d55b9&autoAuth=true)
 
+> **Note: I may not have active Power BI subscription so the Live dashboard may not work. However the file is available [here](/Data_Jobs_Project_1/Data%20Dashboard%20Project.pbix)**
+
 This initial dashboard provides a comprehensive two-page exploration of the data job market, designed for job seekers. It features a high-level summary page and a detailed drill-through page for specific job titles, offering a broad look at market trends and compensation.
 
 **Key Power BI Skills Utilized:**
@@ -39,6 +41,8 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 [![Data Jobs Dashboard 2.0 GIF](Images/Project2_Dashboard_Overview.gif)](Data_Jobs_Project_2/README.md)
 
 [🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/reportEmbed?reportId=613eedb0-4649-4575-b5c0-8f80e52dfcb5&autoAuth=true&ctid=d0732ed6-a89f-488d-b29d-e5e9e7cdde5c)
+
+> **Note: I may not have active Power BI subscription so the Live dashboard may not work. However the file is available [here](/Data_Jobs_Project_2/Dashboard%20Project%202%20FINAL.pbix)**
 
 Version 2.0 of the Data Jobs Dashboard streamlines the analysis into a highly focused, single-page experience. It's optimized to deliver the most critical insights quickly to job seekers, featuring dynamic interactions and more advanced analytical capabilities.
 
