@@ -5,6 +5,7 @@
 
 > *Note: You may need to be signed into your institutional Microsoft account to view the dashboard.*
 
+> **Note: I may not have active Power BI subscription so the Live dashboard may not work. However the file is available [here](/Data_Jobs_Project_1/Data%20Dashboard%20Project.pbix)**
 
 ## Introduction
 
