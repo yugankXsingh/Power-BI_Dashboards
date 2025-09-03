@@ -32,7 +32,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 - ➡️ Drill-Through Functionality
 
 
-[➡️ **View Full Project 1 Details (README)**](Data_Jobs_Project_1/README.md)
+[➡️ **View Full Project 1 Details (README)**](Data_Jobs_Project_1\Readme.md)
 
 ---
 
