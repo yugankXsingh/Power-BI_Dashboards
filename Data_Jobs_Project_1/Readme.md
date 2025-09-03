@@ -1,5 +1,5 @@
 # Data Jobs Dashboard w/ Power BI
-<img src="..Images\Project1_Dashboard_Page1.gif">
+<img src="../Images/Project1_Dashboard_Overview.gif">
 
 > [📊 View interactive dashboard here on the Power BI Service](https://app.powerbi.com/reportEmbed?reportId=629e5236-54c8-43d8-9eef-a1ca139d55b9&autoAuth=true)
 
